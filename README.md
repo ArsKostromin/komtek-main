@@ -1,4 +1,7 @@
 # komtek
+<h1>запуск</h1>
+docker-compose up
+<hr>
 
 http://127.0.0.1:8000/refbooks/?date=2025-02-16
 http://127.0.0.1:8000/refbooks/1/elements/?version=1
